@@ -55,5 +55,5 @@
 
 ## 📬 Contact
 
-- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-linkedin)
-- Email: your-email@gmail.com
+- LinkedIn: www.linkedin.com/in/bhoomika-sharma-617179350
+- Email:bhoomi2060@gmail.com
