@@ -43,7 +43,7 @@
 - Evaluated model with R² Score and MSE
 - Visualized results using Matplotlib
 
-🔗 [Task 1]([https://github.com/bhoomi2060-dot/portfolio](https://github.com/bhoomi2060-dot/SkillCraft-Technology-Internship))
+🔗 [Task 1](https://github.com/bhoomi2060-dot/SkillCraft-Technology-Internship)
 
 ---
 
