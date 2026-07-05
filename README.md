@@ -1,8 +1,14 @@
-# Hi, I'm Bhoomika Sharma👋
-
-🎓 2nd Year CS Student  
-💡 Interested in DBMS, Full Stack Development & AI/ML  
-🌱 Currently working on Scam Detector & Krishi Sakhi
+👋 Hi, I'm Bhoomika Sharma
+---
+🎓 3rd Year CSE Student | Manav Rachna University, Faridabad
+🤖 Aspiring Generative AI Specialist | ML Enthusiast
+🐍 Python Developer Intern @ ShadowFox
+🧠 ML Intern @ CodSoft & SkillCraft Technology
+🎯 Campus Mantri @ GeeksforGeeks
+💡 Currently Exploring: Generative AI & LLMs
+🔨 Building: AI/ML Projects & Python Applications
+Tech Stack:
+Python | Scikit-learn | NumPy | Pandas | OpenCV | NLP | MongoDB
 ---
 
 ## 🚀 Projects
