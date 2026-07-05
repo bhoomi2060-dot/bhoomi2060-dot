@@ -47,6 +47,12 @@
 
 ---
 
+### CodSoft Internship
+- Movie-Genre-Classification
+- Credit-Card-Fraud-Detection
+- Customer-Churn-Prediction
+
+ 🔗 [Task ](https://github.com/bhoomi2060-dot/CodSoft)
 ## 🖥️ Tech Stack
 
 - Frontend: React, HTML, CSS
